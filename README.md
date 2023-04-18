@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AR/VR development**
 
-- 💬 Ask me about **C,C++,C#,Python**
+- 💬 Ask me about **C,C++,C#,Python,Unity**
 
 - 📫 How to reach me **vasuaggarwal393@gmail.com**
 
